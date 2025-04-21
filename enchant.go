@@ -2,7 +2,7 @@
 package enchant
 
 /*
-#cgo LDFLAGS: -lenchant
+#cgo LDFLAGS: -lenchant-2
 #include <string.h>
 #include <stdlib.h>
 #include <sys/types.h>
