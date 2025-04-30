@@ -6,7 +6,7 @@ package enchant
 #include <string.h>
 #include <stdlib.h>
 #include <sys/types.h>
-#include "enchant/enchant.h"
+#include "enchant-2/enchant.h"
 
 static char* getString(char ** c, int i) {
     return c[i];
